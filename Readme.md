@@ -1,10 +1,10 @@
 # Form Recognizer &amp; Power Platform
 
-## **Requirements**
+### **Requirements**
 
 1. Azure Subscription
 
-## **Setup Form Recognizer**
+### **Setup Form Recognizer**
 
 1. Open your browser, navigate to https://portal.azure.com, and log in with your Azure subscription credentials.
 2. Select &quot;_Create a Resource_&quot;
@@ -21,7 +21,7 @@
   + Select &quot;Create&quot;
 
 
-## **Setup Form Recognizer Labeling Tool**
+### **Setup Form Recognizer Labeling Tool**
 
 1. Select &quot;_Create a Resource_&quot;
 2. Select &quot;_Web App_ &quot;
