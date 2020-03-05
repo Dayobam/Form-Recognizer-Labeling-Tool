@@ -1,4 +1,4 @@
-# Form Recognizer &amp; Power Platform
+# Form Recognizer Labeling Tool
 
 ### **Requirements**
 
@@ -24,7 +24,7 @@
 ### **Setup Form Recognizer Labeling Tool**
 
 1. Select &quot;_Create a Resource_&quot;
-2. Select &quot;_Web App_ &quot;
+2. Select &quot;_Web App_&quot;
 3. On the **Basics** Tab. Fill in the following information:
     + Resource Group: DemoFormRecognizer 
     + Name: &quot;_type a uniquename_&quot;
