@@ -1,6 +1,6 @@
 # Form Recognizer Labeling Tool
 
-Supporting medium post on [Getting Start with Form Recognizer Labeling Tool](medium.com/@dayobam)
+Supporting medium post on [Getting Start with Form Recognizer Labeling Tool](https://medium.com/@dayobam)
 
 ### **Requirements**
 
