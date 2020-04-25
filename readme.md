@@ -1,5 +1,7 @@
 # Form Recognizer Labeling Tool
 
+####Supporting medium post on ![Getting Start with Form Recognizer Labeling Tool](medium.com/@dayobam)
+
 ### **Requirements**
 
 1. Azure Subscription
